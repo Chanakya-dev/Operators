@@ -65,7 +65,7 @@ Assignment operators assign values to variables.
 | `%=`     | Modulus and assign                | `x %= 3`         | `x = x % 3` |
 | `**=`    | Exponentiate and assign           | `x **= 3`        | `x = x ** 3`|
 | `&=`     | Bitwise AND and assign            | `x &= 3`         | `x = x & 3` |
-| `|=`     | Bitwise OR and assign             | `x |= 3`         | `x = x | 3` |
+| `| =`     | Bitwise OR and assign             | `x | = 3`         | `x = x | 3` |
 | `^=`     | Bitwise XOR and assign            | `x ^= 3`         | `x = x ^ 3` |
 | `<<=`    | Left shift and assign             | `x <<= 3`        | `x = x << 3`|
 | `>>=`    | Right shift and assign            | `x >>= 3`        | `x = x >> 3`|
