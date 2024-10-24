@@ -70,7 +70,7 @@ The bitwise AND operator compares each bit of two numbers. If any one bits are 1
 a = 5  # (binary: 0101)
 b = 3  # (binary: 0011)
 
-result = a & b  # (binary: 0111) => decimal: 7
+result = a | b  # (binary: 0111) => decimal: 7
 print(result)  # Output: 7
 ```
 
