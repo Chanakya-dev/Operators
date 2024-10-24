@@ -44,7 +44,7 @@ Bitwise operators perform operations on bits and are commonly used in low-level 
 | Operator | Description                        | Example          | Output    |
 |----------|------------------------------------|------------------|-----------|
 | `&`      | Bitwise AND                       | `5 & 3`          | `1`       |
-| ` "|" `      | Bitwise OR                        | `5 | 3`          | `7`       |
+| `**|**`      | Bitwise OR                        | `5 | 3`          | `7`       |
 | `^`      | Bitwise XOR                       | `5 ^ 3`          | `6`       |
 | `~`      | Bitwise NOT                      | `~5`             | `-6`      |
 | `<<`     | Left shift                        | `5 << 1`         | `10`      |
