@@ -59,6 +59,7 @@ b = 3  # (binary: 0011)
 result = a & b  # (binary: 0001) => decimal: 1
 print(result)  # Output: 1
 ```
+
 ### 2. Bitwise OR (`|`)
 
 The bitwise AND operator compares each bit of two numbers. If any one bits are 1, the result is 1; otherwise, it is 0.
@@ -69,6 +70,19 @@ The bitwise AND operator compares each bit of two numbers. If any one bits are 1
 a = 5  # (binary: 0101)
 b = 3  # (binary: 0011)
 
-result = a & b  # (binary: 0111) => decimal: 1
+result = a & b  # (binary: 0111) => decimal: 7
 print(result)  # Output: 7
+```
+
+### 3. Bitwise XOR (^)
+The bitwise XOR operator compares each bit of two numbers. If the bits are different, the result is 1; if they are the same, the result is 0.
+
+Example:
+
+```python
+a = 5  # (binary: 0101)
+b = 3  # (binary: 0011)
+
+result = a ^ b  # (binary: 0110) => decimal: 6
+print(result)  # Output: 6
 ```
