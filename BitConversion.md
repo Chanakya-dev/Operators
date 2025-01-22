@@ -36,7 +36,6 @@ To convert a binary number to decimal:
 
 #### Example: Convert 1101 to Decimal
 
-```markdown
 
 #### Bit at position 3:
 ```
@@ -56,7 +55,6 @@ To convert a binary number to decimal:
 #### Bit at position 0:
 ```
 1 × 2⁰ = 1 × 1 = 1
-```
 ```
 
 **Sum: 8 + 4 + 0 + 1 = 13**.  
