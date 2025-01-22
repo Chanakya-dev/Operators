@@ -36,10 +36,28 @@ To convert a binary number to decimal:
 
 #### Example: Convert 1101 to Decimal
 
-- \(1 \times 2^3 = 1 \times 8 = 8\)
-- \(1 \times 2^2 = 1 \times 4 = 4\)
-- \(0 \times 2^1 = 0 \times 2 = 0\)
-- \(1 \times 2^0 = 1 \times 1 = 1\)
+```markdown
+
+#### Bit at position 3:
+```
+1 × 2³ = 1 × 8 = 8
+```
+
+#### Bit at position 2:
+```
+1 × 2² = 1 × 4 = 4
+```
+
+#### Bit at position 1:
+```
+0 × 2¹ = 0 × 2 = 0
+```
+
+#### Bit at position 0:
+```
+1 × 2⁰ = 1 × 1 = 1
+```
+```
 
 **Sum: 8 + 4 + 0 + 1 = 13**.  
 Thus, **1101 in binary is 13 in decimal**.
